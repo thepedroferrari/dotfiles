@@ -1,9 +1,9 @@
 {
   "window.zoomLevel": -1,
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontSize": 29,
-  "editor.lineHeight": 40,
-  "editor.letterSpacing": 0.5,
+  "editor.fontFamily": "Operator Mono, Inconsolata, Menlo, Monaco, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 28,
+  "editor.letterSpacing": 0.25,
   "workbench.editor.tabSizing": "shrink",
   "html.format.enable": true,
   "html.format.preserveNewLines": true,
@@ -18,9 +18,6 @@
   "editor.cursorBlinking": "solid",
   "editor.colorDecorators": false,
   "editor.minimap.enabled": false,
-  "vscode_custom_css.imports": [
-    "/Volumes/Macintosh HD/Users/wesbos/.vscodestyles.css"
-  ],
   "workbench.activityBar.visible": true,
   "workbench.sideBar.location": "left",
   "gitlens.blame.line.enabled": false,
